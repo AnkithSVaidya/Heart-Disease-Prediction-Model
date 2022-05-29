@@ -12,5 +12,5 @@ At last I have print out the predicted result.
 
 
 
-I have also done this in an alternative way(My second ipynb link) where I have used only simple concepts that I had learnt during my training course
+I have also done this in an alternative way,where I have used only simple concepts that I had learnt during my training course
 
