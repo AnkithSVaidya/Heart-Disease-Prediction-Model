@@ -9,3 +9,8 @@ Next is to Validate SVM model,k-nearest neighbour,decision tree.
 Then I get to know that Accuracy score in decision tree is highest.
 I will construct a pipeline to fine tune it.
 At last I have print out the predicted result.
+
+
+
+I have also done this in an alternative way(My second ipynb link) where I have used only simple concepts that I had learnt during my training course
+
